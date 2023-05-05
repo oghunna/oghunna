@@ -25,10 +25,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/oghunna/oghunna/output/snake.svg" alt="Snake animation" />
 
 ###
