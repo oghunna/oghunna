@@ -36,12 +36,12 @@
   ### 📊 Statystyki GitHub
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=TWOJA_NAZWA_UZYTKOWNIKA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Statystyki Huberta" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TWOJA_NAZWA_UZYTKOWNIKA&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=oghunna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Statystyki Huberta" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=oghunna&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
   </p>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWOJA_NAZWA_UZYTKOWNIKA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" alt="Języki" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oghunna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" alt="Języki" />
   </p>
 
   ---
