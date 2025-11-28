@@ -49,7 +49,7 @@
   ### 📫 Kontakt
 
   <p align="center">
-<img src="https://img.shields.io/badge/Discord-oghubercik-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />>
+<img src="https://img.shields.io/badge/Discord-oghubercik-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </p>
 
 </div>
